@@ -1,5 +1,5 @@
 
-// function movieNameFunc(name) {
-// console.log(name)
-// }
+function movieNameFunc(name) {
+console.log(name)
+}
 
